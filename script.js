@@ -133,7 +133,7 @@ text.addEventListener('input', e => {
 // Settings btn click
 
 settingsBtn.addEventListener('click', () => 
-settings.classList.toggle('heid'));
+settings.classList.toggle('hide'));
 
 
 // Settings select
